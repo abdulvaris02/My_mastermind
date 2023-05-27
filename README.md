@@ -29,6 +29,7 @@ gcc -o my_mastermind my_mastermind.c
 ./my_mastermind -c "sectret code" 
 
 ### The Core Team
+Xusanov Abduvoris
 
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar Silicon Valley</a></i></span>
