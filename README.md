@@ -26,7 +26,7 @@ To make this task I've used headers like: stdbool, stdio, string, ctype, stdlib 
 
 ## Usage
 gcc -o my_mastermind my_mastermind.c 
-./my_mastermind -c "sectret code" -t "number of attempts" //(by default: t = 10, if you do not give secret code, the programm will generate it byself)
+./my_mastermind -c "sectret code" -t "number of attempts" //(by default: t = 10, if you do not give secret code, the programm will generate it)
 
 ### The Core Team
 Xusanov Abduvoris
