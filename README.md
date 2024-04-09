@@ -2,7 +2,7 @@
 ***
 
 ## Task
-At this task we have to make a game Mastermind. 
+At this task we have to make the Mastermind game. 
 
 ## Description
 Mastermind is a game composed of 8 pieces of different colors.
